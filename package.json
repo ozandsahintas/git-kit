@@ -1,0 +1,12 @@
+{
+  "name": "git-kit",
+  "version": "1.0.0",
+  "description": "Günlük git akışı için küçük, kontrollü komutlar (git kit <komut>)",
+  "private": true,
+  "bin": {
+    "git-kit": "git-kit.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
